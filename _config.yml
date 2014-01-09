@@ -1,5 +1,4 @@
 name:   'qingfeng Blog'
-url:    'http://xiaoqiangkl.github.io'
 author: 'qingfeng'
 
 include:  ['_pages']
